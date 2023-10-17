@@ -40,19 +40,19 @@
     "url": "https://www.get-information-schools.service.gov.uk/Downloads",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-information-schools.service.gov.uk.ico",
     "slug": "gias-downloads-page",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 818,
     "timeDay": 833,
     "timeWeek": 818,
     "timeMonth": 818,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2023-10-17": 8
+      "2023-10-17": 0
     }
   }
 ]
