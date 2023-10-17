@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/get-information-schools.service.gov.uk.ico",
     "slug": "gias-home-page",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 562,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
-    "dailyMinutesDown": {
-      "2023-10-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GIAS Home Page (`www.`)",
@@ -43,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.get-information-schools.service.gov.uk.ico",
     "slug": "gias-downloads-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.69%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 860,
     "timeDay": 1034,
     "timeWeek": 860,
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 8
     }
   }
 ]
