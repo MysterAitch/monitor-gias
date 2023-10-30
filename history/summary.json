@@ -4,19 +4,19 @@
     "url": "https://get-information-schools.service.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/get-information-schools.service.gov.uk.ico",
     "slug": "gias-home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 844,
-    "timeWeek": 768,
-    "timeMonth": 789,
-    "timeYear": 789,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 794,
+    "timeDay": 860,
+    "timeWeek": 781,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {
-      "2023-10-30": 1
+      "2023-10-30": 7
     }
   },
   {
