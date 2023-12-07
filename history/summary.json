@@ -25,10 +25,10 @@
     "url": "https://www.get-information-schools.service.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-information-schools.service.gov.uk.ico",
     "slug": "gias-home-page-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.87%",
     "time": 1083,
@@ -37,6 +37,7 @@
     "timeMonth": 923,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2023-12-07": 2,
       "2023-12-05": 38,
       "2023-10-31": 61
     }
@@ -46,9 +47,9 @@
     "url": "https://www.get-information-schools.service.gov.uk/Downloads",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-information-schools.service.gov.uk.ico",
     "slug": "gias-downloads-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.84%",
@@ -58,6 +59,7 @@
     "timeMonth": 661,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2023-12-07": 0,
       "2023-12-05": 38,
       "2023-11-13": 23,
       "2023-10-31": 61
