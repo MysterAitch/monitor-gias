@@ -27,7 +27,7 @@
     "url": "https://www.get-information-schools.service.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-information-schools.service.gov.uk.ico",
     "slug": "gias-home-page-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 795,
     "timeYear": 1017,
     "dailyMinutesDown": {
+      "2024-02-07": 0,
       "2024-01-09": 22,
       "2023-12-07": 144,
       "2023-12-05": 38,
