@@ -1,7 +1,7 @@
 url: https://get-information-schools.service.gov.uk/
-status: up
-code: 200
-responseTime: 614
-lastUpdated: 2024-02-14T23:02:52.465Z
+status: down
+code: 503
+responseTime: 997
+lastUpdated: 2024-02-15T18:06:07.190Z
 startTime: 2023-10-15T19:30:26.544Z
 generator: Upptime <https://github.com/upptime/upptime>
