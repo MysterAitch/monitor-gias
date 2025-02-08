@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 946,
-    "timeDay": 974,
-    "timeWeek": 825,
-    "timeMonth": 968,
-    "timeYear": 949,
+    "timeDay": 928,
+    "timeWeek": 864,
+    "timeMonth": 967,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2025-01-28": 23,
       "2025-01-21": 28,
@@ -23,8 +23,7 @@
       "2024-09-17": 132,
       "2024-07-09": 23,
       "2024-02-15": 31,
-      "2024-02-14": 19,
-      "2024-02-09": 17
+      "2024-02-14": 19
     }
   },
   {
@@ -39,10 +38,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.93%",
     "time": 931,
-    "timeDay": 1033,
-    "timeWeek": 873,
-    "timeMonth": 883,
-    "timeYear": 907,
+    "timeDay": 938,
+    "timeWeek": 914,
+    "timeMonth": 890,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2025-01-28": 23,
       "2025-01-21": 28,
@@ -60,15 +59,15 @@
     "slug": "gias-downloads-page",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.89%",
-    "time": 1378,
-    "timeDay": 867,
-    "timeWeek": 733,
-    "timeMonth": 790,
-    "timeYear": 1509,
+    "uptimeYear": "99.90%",
+    "time": 1377,
+    "timeDay": 858,
+    "timeWeek": 725,
+    "timeMonth": 794,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2025-02-06": 29,
       "2025-01-28": 23,
@@ -81,8 +80,7 @@
       "2024-09-17": 155,
       "2024-07-09": 23,
       "2024-02-15": 31,
-      "2024-02-14": 19,
-      "2024-02-09": 16
+      "2024-02-14": 19
     }
   }
 ]
